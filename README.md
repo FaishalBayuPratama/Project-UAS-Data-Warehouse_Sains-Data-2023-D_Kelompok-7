@@ -1,7 +1,7 @@
-# 📊 Data Warehouse & Komputasi Terdistribusi — Economic Freedom of the World
+# 📊 Data Warehouse & Komputasi Terdistribusi Economic Freedom of the World
 
 > Proyek UAS Mata Kuliah Data Warehouse dan Komputasi Terdistribusi  
-> Program Studi Sains Data — Universitas Negeri Surabaya (UNESA) 2025
+> Program Studi Sains Data Universitas Negeri Surabaya (UNESA) 2025
 
 ---
 
