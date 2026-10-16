@@ -40,14 +40,14 @@ Pipeline yang dibangun mencakup:
 
 ```
 📦 repo/
-├── 📓 UAS_DWH_Kelompok7.ipynb                          # Notebook utama
-├── 🐍 task.py                                           # Celery worker → PostgreSQL
+├── 📓 UAS_DWH_Kelompok7.ipynb                                # Notebook utama
+├── 🐍 task.py                                                # Celery worker → PostgreSQL
 ├── 📊 efotw-2024-master-index-data-for-researchers-iso.xlsx  # Dataset asli (Fraser Institute)
-├── 📄 Data_Bersih.csv                                   # Hasil preprocessing: Sheet 1 + Sheet 3
-├── 📄 Data_Bersih2.csv                                  # Hasil preprocessing: Sheet 2 Panel Data
-├── 📋 requirements.txt                                  # Dependensi Python
-├── 🔒 .gitignore                                        # File yang dikecualikan dari Git
-└── 📖 README.md                                         # Dokumentasi ini
+├── 📄 Data_Bersih.csv                                        # Hasil preprocessing: Sheet 1 + Sheet 3
+├── 📄 Data_Bersih2.csv                                       # Hasil preprocessing: Sheet 2 Panel Data
+├── 📋 requirements.txt                                       # Dependensi Python
+├── 🔒 .gitignore                                             # File yang dikecualikan dari Git
+└── 📖 README.md                                              # Dokumentasi
 ```
 
 ### Penjelasan CSV
